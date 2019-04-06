@@ -140,5 +140,6 @@ This repository is configured to run tests upon every commit, and when pull-requ
 Releases are automated in a similar fashion via [.github/build](.github/build), and the [github-action-publish-binaries](https://github.com/skx/github-action-publish-binaries) action.
 
 
-Steve
+Thanks to Steve 
+Full Credit: Steve Kemp - https://github.com/skx/
 --
